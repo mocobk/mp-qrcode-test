@@ -20,25 +20,13 @@ https://open.weixin.qq.com/sns/getexpappinfo?appid=xxx&path=pages/index/index.ht
 
 > 注意小程序码 B 接口的参数是都放在在 scene 参数的值中，且需要 urlencode 如：pages/index/index.html?scene=name%3Dmocobk%26age%3D18
 > 具体参考[文档](https://developers.weixin.qq.com/miniprogram/dev/framework/open-ability/qr-code.html)
-## Project setup
+
+# 安装项目依赖
 ```
-yarn install
+npm install
 ```
 
-### Compiles and hot-reloads for development
+# 构建
 ```
-yarn serve
+npm build
 ```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).

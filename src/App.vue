@@ -117,7 +117,7 @@
                 },
                 qrCode: {
                     url: 'pages/index/main',
-                    logo: 'http://mocobk.test.upcdn.net/image/20201022103216926.jpg',
+                    logo: require('./assets/mp-logo.jpg'),
                     curTime: formatDate(new Date().getTime())
                 }
             }
