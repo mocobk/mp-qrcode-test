@@ -1,6 +1,6 @@
 # mp-qrcode-test
 一款微信小程序带参数二维码生成工具，可模拟测试分享卡片、公众号小程序链接、小程序码带参数跳转至小程序。
-![](http://mocobk.test.upcdn.net/image/20201029191607673.jpg)
+![](./image/demo.jpg)
 
 
 #### [在线 Demo](https://mocobk.gitee.io/mp-qrcode-test)
